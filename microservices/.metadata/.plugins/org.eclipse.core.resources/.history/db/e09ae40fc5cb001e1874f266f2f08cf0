@@ -1,0 +1,14 @@
+package com.tcs.eureka;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@EnableEurekaServer
+@SpringBootApplication
+public class Day14EurekaRegistryApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(Day14EurekaRegistryApplication.class, args);
+	}
+
+}

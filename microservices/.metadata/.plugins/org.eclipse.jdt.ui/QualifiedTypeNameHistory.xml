@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.cloud.client.circuitbreaker.EnableCircuitBreaker"/>
+    <fullyQualifiedTypeName name="org.springframework.cloud.netflix.hystrix.dashboard.EnableHystrixDashboard"/>
+    <fullyQualifiedTypeName name="com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand"/>
+    <fullyQualifiedTypeName name="io.github.resilience4j.circuitbreaker.annotation.CircuitBreaker"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,598 @@
+    1  sudo apt --only-upgrade install google-chrome-stable
+    2  sudo cloud-init clean
+    3  sudo vim ~/.bash_history 
+    4  java -cp target/day7-mvn-training-0.0.1-SNAPSHOT.jar com.mvnexample.App
+    5  java -cp target/day7-mvn-training-0.0.1-SNAPSHOT.jar com.tcs.mvnexample.App
+    6  java -cp target/day7-mvn-training-0.0.1-SNAPSHOT.jar com.tcs.mvnexample.day7_mvn_training.App
+    7  java -cp target/day7-mvn-training-0.0.1-SNAPSHOT.jar com.mvnexample.App
+    8  tree target
+    9  cd
+   10  cd dir
+   11  ls
+   12  cd eclipse-workspace
+   13  ls
+   14  mvn --version
+   15  export varname=MAVEN_HOME
+   16  LS
+   17  ls
+   18  cd ..
+   19  mkdir tcsmav
+   20  cd tcsmav
+   21  mvn --version
+   22  mvn
+   23  cd ..
+   24  mvn
+   25  mvn archetype:generate
+   26  ls
+   27  tcs mav
+   28  cd tcsmav
+   29  mvn
+   30  mvn archetype:generate
+   31  dir
+   32  tree/f
+   33  tree tcs-training
+   34  cd ..
+   35  tree tcs-training
+   36  cd tcsmav
+   37  ls
+   38  tree tcs-traning
+   39  dir
+   40  cd tcs-traning
+   41  notepad pom.xml
+   42  xmlstarlet pom.xml
+   43  help
+   44  help name
+   45  cd src
+   46  cd java
+   47  ls
+   48  cd main
+   49  cd java
+   50  ls
+   51  tcs com
+   52  ls com
+   53  cd mvndemo
+   54  ls
+   55  cd com
+   56  cd mvndemo
+   57  cd App.java
+   58  ls
+   59  cd App.java
+   60  cd ..
+   61  cd tcs-traning
+   62  AppTest
+   63  mvn package
+   64  tree target
+   65  cd target
+   66  cd classes
+   67  java com.mvndemo.App
+   68  cd ..
+   69  java -cp target/tcs-traning-1.0-SNAPSHOT.jar com.mvndemo.App
+   70  mkdir git-training
+   71  ls
+   72  cd got-training
+   73  cd git-training
+   74  git status
+   75  cd ..
+   76  cd tcs-training
+   77  ls
+   78  cd git-training
+   79  git
+   80  git init
+   81  ls
+   82  git init
+   83  cd ..
+   84  ls
+   85  cd ..
+   86  ls
+   87  cd Desktop
+   88  ls
+   89  cd git-train
+   90  git init
+   91  git status
+   92  git add Math.java
+   93  git status
+   94  git add Math.java
+   95  git status
+   96  git add App.java
+   97  git status
+   98  git ignore
+   99  touch gitignore
+  100  touch .gitignore
+  101  git status
+  102  git rm --cached App.java
+  103  git status
+  104  git add hello.txt
+  105  git status
+  106  git rm --cached hello.txt
+  107  git status
+  108  git add hello.txt
+  109  git status
+  110  git rm --cached hello.txt
+  111  git status
+  112  git add hrllo.txt
+  113  git add hello.txt
+  114  cd git-train
+  115  cd Desktop
+  116  cd git-train
+  117  git commit -m 'my source files first commit'
+  118  git config --global "bhavya@gmail.com"
+  119  git config --global "arumullabhavya@karunya.edu.in"
+  120  git config --global user.email "arumullabhavya@karunya.edu.in"
+  121  git log
+  122  git config --global user.name "Bhavyasai116"
+  123  git log
+  124  git commit
+  125  git show 4115
+  126  git commit -m "my source files first commit"
+  127  git commit -m 'my source files first commit'
+  128  git commit -m "my source files"
+  129  git commit -m "my source files first commit"
+  130  git status
+  131  cd Desktop
+  132  cd git-train
+  133  git status
+  134  git commit -m 'my source'
+  135  git config --global user.email "arumullabhavya@karunya.edu.in"
+  136  git config --global user.name "Bhavyasai116"
+  137  git commit -m "my source"
+  138  git show
+  139  git status
+  140  git show --diff
+  141  git logs
+  142  git log
+  143  git add Math.java
+  144  git commit -m "the second commit"
+  145  git add App.java
+  146  git status
+  147  git log
+  148  git show 5d91
+  149  git reset Math.java
+  150  cat Math.java
+  151  git reset
+  152  git log
+  153  git show --diff
+  154  ci Math.java
+  155  vi Math.java
+  156  cd Desktop
+  157  cd git-train
+  158  git log
+  159  git show 5d91
+  160  git --checkout Math.java
+  161  cat Math.java
+  162  vi Math.java
+  163  cat Math.java
+  164  git reset Math.java
+  165  git reset 903e
+  166  git init
+  167  git add README.md
+  168  ls
+  169  echo "# tcs-fsd" >> README.md
+  170  git add README.md
+  171  git commit -m "first commit"
+  172  git branch -M main
+  173  git remote add origin https://github.com/Bhavyasai116/tcs-fsd.git
+  174  git push -u origin main
+  175  git push https:// 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@github.com/Bhavyasai116/tcs-fsd .git
+  176  git push https:// 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@github.com/Bhavyasai116/tcs-fsd.git
+  177  git push https://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@github.com/Bhavyasai116/tcs-fsd.git
+  178  git version
+  179  git push -u origin main
+  180  git stayus
+  181  git status
+  182  touch Math.java
+  183  git status
+  184  git add .
+  185  git commit -m'adding Math source file first commit'
+  186  git status
+  187  git push -u origin main
+  188  git status
+  189  git log
+  190  git status
+  191  git pull origin/main
+  192  git pull origin/master
+  193  git pull
+  194  ls -la
+  195  git status
+  196  git add --all
+  197  git status
+  198  git commit -m "Java file"
+  199  git log
+  200  git push https://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@github.com/Bhavyasai116/tcsfsd.git
+  201  git push https://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@github.com/Bhavyasai116/tcs-fsd.git
+  202  git status
+  203  git add -all
+  204  git add --all
+  205  git status
+  206  git push https://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@github.com/Bhavyasai116/tcsfsd.git
+  207  git push https://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@github.com/Bhavyasai116/tcs-fsd.git
+  208  git commit -m 'java files'
+  209  git push https://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@github.com/Bhavyasai116/tcs-fsd.git
+  210  git status
+  211  '\mvn spring-boot:run
+  212  ls
+  213  ./mvn spring-boot:run
+  214  ./mvnw spring-boot:run
+  215  git init
+  216  touch application.properties
+  217  vi application.properties
+  218  cat application.properties
+  219  git add .
+  220  git commit -m 'created application props file first push'
+  221  git status
+  222  ng version
+  223  git clone url
+  224  git clone https://github.com/KaruppuRajaN/InvestmentPortfolioAngularApp.git
+  225  ls
+  226  git init
+  227  npm install
+  228  ng server
+  229  ng serve
+  230  npm --version
+  231  ng version
+  232  ng first-app
+  233  ng new first-app
+  234  cd first-app
+  235  ng serve
+  236  ng version
+  237  npm --version
+  238  ng new first-app
+  239  dir
+  240  cd first-app
+  241  .
+  242  .ng
+  243  dir
+  244  ng .
+  245  ng.
+  246  git init
+  247  git remote add origin https://github.com/group2jfsd/AIPMS.git
+  248  git pull https://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@github.com/bhavya116/AIPMS.git
+  249  git pull https://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@github.com/bhavya116/group2jfsd/AIPMS.git
+  250  git pull https://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@github.com/bhavya116/group2jfsd.git
+  251  git pull https://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@github.com/bhavya116/AIPMS.git
+  252  git remote add origin https://github.com/ya-its-yasin/AIPMS.git
+  253  git pull https://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@github.com/bhavya116/AIPMS.git
+  254  git pull https://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@github.com/ya-its-yasin/AIPMS.git
+  255  ng g component binding
+  256  ng g component trial
+  257  ng serve
+  258  git init
+  259  git remote add origin https://github.com/ya-its-yasin/AIPMS.git
+  260  git pull https://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@github.com/ya-its-yasin/AIPMS.git
+  261  ng g component crud/post
+  262  ng g component crud/update
+  263  ng g component crud/delete
+  264  ng g component crud/fetch
+  265  ng g service services/product
+  266  ng serve
+  267  cd first-app
+  268  ng serve
+  269  ng g component binding
+  270  ng serve
+  271  ng new --no-standalone first-app
+  272  code .
+  273  ng g component crud/create
+  274  ng g component crud/post
+  275  ng g component crud/update
+  276  ng g component crud/delete
+  277  ng g component crud/fetch
+  278  ng g service services/product
+  279  ng serve
+  280  cd first-app
+  281  ng serve
+  282  code .
+  283  ng g component userinfo
+  284  ng serve
+  285  ng g component signup
+  286  ng g component login
+  287  ng serve
+  288  git add .
+  289  git commit -m "added login,signup,userinfo pages"
+  290  git remote add origin https://github.com/KaruppuRajaN/InvestmentPortfolioAngularApp.git
+  291  git push https://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/bhavya116/InvestmentPortfolioAngularApp.git
+  292  git push https://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@github.com/bhavya116/InvestmentPortfolioAngularApp.git
+  293  git push https://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@github.com/bhavya116/KaruppuRajaN/InvestmentPortfolioAngularApp.git
+  294  git push https://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@github.com/KaruppuRajaN/InvestmentPortfolioAngularApp.git
+  295  git remote -v
+  296  git init
+  297  git add .
+  298  cd first-app
+  299  ng g component crud/findById
+  300  ng serve
+  301  cd first-app
+  302  ng serve
+  303  cd first-app
+  304  ng serve
+  305  cd first-app
+  306  ng serve
+  307  ng test
+  308  ng test
+  309  ng new --no-standalone test-app
+  310  code .
+  311  cd first-app
+  312  ng serve
+  313  ng serve
+  314  ng new --no-standalone test-app
+  315  ng test
+  316  git pull https://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@github.com/ya-its-yasin/AIPMS.git
+  317  code .
+  318  git status
+  319  git add .
+  320  git commit -m "added gold investment api"
+  321  git pull https://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@github.com/ya-its-yasin/AIPMS.git
+  322  git status
+  323  git push https://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@github.com/ya-its-yasin/AIPMS.git
+  324  git push https://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@github.com/ya-its-yasin/AIPMS.git dev
+  325  git status
+  326  git switch dev
+  327  git switch -c dev
+  328  git status
+  329  git add .
+  330  git status
+  331  git commit -m "added properties"
+  332  git push https://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@github.com/ya-its-yasin/AIPMS.git dev
+  333  git status
+  334  git add .
+  335  git commit -m "added postman collection in resources folder"
+  336  git push https://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@github.com/ya-its-yasin/AIPMS.git dev
+  337  git status
+  338  git add .
+  339  git commit -m "login page setups"
+  340  git pull origin
+  341  git status
+  342  git add .
+  343  git commit -m "fixed conflicts"
+  344  git pull origin
+  345  git push origin
+  346  ng g component gold
+  347  ng serve
+  348  git pull https://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@github.com/ya-its-yasin/AIPMS.git
+  349  git init
+  350  git status
+  351  git pull origin
+  352  ng serve
+  353  ls
+  354  git clone -b qa https://github.com/ya-its-yasin/AIPMS.git
+  355  git status
+  356  cd AIPMS/
+  357  git status
+  358  cd ..
+  359  mkdir 1
+  360  cd 1
+  361  git clone -b APIPROVIDER https://github.com/ya-its-yasin/AIPMS.git
+  362  git clone -b APIPROVIDERSTOCK https://github.com/ya-its-yasin/AIPMS.git
+  363  git pull https://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@github.com/bhavya116/KaruppuRajaN/InvestmentPortfolioAngularApp.git
+  364  git pull https://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@github.com/KaruppuRajaN/InvestmentPortfolioAngularApp.git
+  365  ng serve
+  366  git push https://[2/7 10:37 AM] Bhavyasai Arumulla
+  367  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/Bhavyasai116/tcs-fsd.git
+  368  git push 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/Bhavyasai116/tcs-fsd.git
+  369  git status
+  370  git add .
+  371  git commit -m "new files"
+  372  git push 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/Bhavyasai116/tcs-fsd.git
+  373  git push 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/Bhavyasai116/tcsfsd.git
+  374  git push https://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@github.com/Bhavyasai116/tcs-fsd.git
+  375  java -jar zipkin.jar
+  376  java -jar zipkin-server-3.0.6-exec.jar
+  377  git status
+  378  git add .
+  379  git commit -m "added goldinvestment component"
+  380  git pull
+  381  git status
+  382  git add .
+  383  git status
+  384  git add .
+  385  git commit -m "mfunds things pulled"
+  386  git status
+  387  git push https:// @
+  388  git push https://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@github.com/bhavya116/KaruppuRajaN/InvestmentPortfolioAngularApp.git
+  389  git push https://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@github.com/KaruppuRajaN/InvestmentPortfolioAngularApp.git
+  390  code .
+  391  ng serve
+  392  git status
+  393  git pull https://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@github.com/KaruppuRajaN/InvestmentPortfolioAngularApp.git
+  394  ng serve
+  395  git pull https://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@github.com/ya-its-yasin/AIPMS.git
+  396  git status
+  397  git add .
+  398  git commit -m "fixed gold html page"
+  399  git push https://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@github.com/KaruppuRajaN/InvestmentPortfolioAngularApp.git
+  400  git pull https://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@github.com/ya-its-yasin/AIPMS.git dev
+  401  git status
+  402  git add .
+  403  git commit -m "gold things"
+  404  git pull https://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@github.com/ya-its-yasin/AIPMS.git dev
+  405  git add .
+  406  git commit -m "gold things 2"
+  407  git pull https://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@github.com/ya-its-yasin/AIPMS.git dev
+  408  git init
+  409  git push https://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@github.com/bhavya116/KaruppuRajaN/InvestmentPortfolioAngularApp.gitgit clone -b APIPROVIDERSTOCK https://github.com/ya-its-yasin/AIPMS.git
+  410  git clone -b APIPROVIDERSTOCK https://github.com/KaruppuRajaN/InvestmentPortfolioAngularApp.git
+  411  git pull https://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@github.com/KaruppuRajaN/InvestmentPortfolioAngularApp.git
+  412  code .
+  413  ng serve
+  414  code .
+  415  git status
+  416  git add .
+  417  git commit -m "gold items 4"
+  418  git pull origin
+  419  git status
+  420  git push https://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@github.com/KaruppuRajaN/InvestmentPortfolioAngularApp.git
+  421  git status
+  422  git add .
+  423  git commit -m "update userdetails"
+  424  git push https://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@github.com/KaruppuRajaN/InvestmentPortfolioAngularApp.git
+  425  git status
+  426  git add .
+  427  git pull origin
+  428  git pull https://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@github.com/ya-its-yasin/AIPMS.git dev
+  429  git status
+  430  git pull origin
+  431  git status
+  432  git add .
+  433  git pull origin
+  434  git pull https://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@github.com/ya-its-yasin/AIPMS.git
+  435  git pull https://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@github.com/ya-its-yasin/AIPMS.git dev
+  436  git status
+  437  git commit -m "Local Commit"
+  438  git pull https://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@github.com/ya-its-yasin/AIPMS.git dev
+  439  git pull https://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@github.com/KaruppuRajaN/InvestmentPortfolioAngularApp.git
+  440  code .
+  441  git status
+  442  git add .
+  443  git commit -m "added credit op in goldinvestment"
+  444  git push https://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@github.com/KaruppuRajaN/InvestmentPortfolioAngularApp.git
+  445  git status
+  446  docker
+  447  docker run ubuntu
+  448  psuedo su
+  449  sedo su
+  450  sudo su
+  451  ng serve
+  452  sudo su
+  453  code .
+  454  docker build -t hello-app:1.0 .
+  455  sudo su
+  456  code .
+  457  git status
+  458  git add.
+  459  git add .
+  460  git commit -m "updated userinfo alignment"
+  461  git push https://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@github.com/KaruppuRajaN/InvestmentPortfolioAngularApp.git
+  462  git status
+  463  ng serve
+  464  code .
+  465  sudo su
+  466  git status
+  467  ng serve
+  468  code .
+  469  git status
+  470  git pull https://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@github.com/KaruppuRajaN/InvestmentPortfolioAngularApp.git
+  471  git status
+  472  code .
+  473  git init
+  474  git status
+  475  git pull https://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@github.com/ya-its-yasin/AIPMS.git dev
+  476  git status
+  477  git init
+  478  git status
+  479  git clone -b APIPROVIDERSTOCK https://github.com/ya-its-yasin/AIPMS.git
+  480  git clone -b APIPROVIDERSTOCK https://github.com/ya-its-yasin/AIPMS.git dev
+  481  git clone -b APIPROVIDERSTOCK https://github.com/ya-its-yasin/AIPMS.git
+  482  git pull https://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@github.com/ya-its-yasin/AIPMS.git dev
+  483  git status
+  484  git init
+  485  git clone https://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@github.com/ya-its-yasin/AIPMS.git dev
+  486  git clone -b APIPROVIDERSTOCK https://github.com/ya-its-yasin/AIPMS.git
+  487  git clone -b dev https://github.com/ya-its-yasin/AIPMS.git
+  488  git pull https://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@github.com/ya-its-yasin/AIPMS.git dev
+  489  git stash
+  490  git pull https://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@github.com/ya-its-yasin/AIPMS.git dev
+  491  ng serve
+  492  code .
+  493  git status
+  494  git commit -m "update portfolio json->table format"
+  495  git add .
+  496  git commit -m "update portfolio json->table format"
+  497  git pull https://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@github.com/KaruppuRajaN/InvestmentPortfolioAngularApp.git
+  498  git commi
+  499  git add .
+  500  git commit -m "updated gold investment"
+  501  git pull https://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@github.com/ya-its-yasin/AIPMS.git dev
+  502  git pull https://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@github.com/ya-its-yasin/AIPMS.git
+  503  git status
+  504  git add .
+  505  git commit -m "goldinvestment calc"
+  506  git push https://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@github.com/ya-its-yasin/AIPMS.git dev
+  507  git push https://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@github.com/ya-its-yasin/AIPMS.git
+  508  git pull https://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@github.com/ya-its-yasin/AIPMS.git dev
+  509  git pull https://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@github.com/ya-its-yasin/AIPMS.git
+  510  git status
+  511  git add .
+  512  git commit -m "myapp"
+  513  git pull https://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@github.com/ya-its-yasin/AIPMS.git
+  514  git pull https://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@github.com/ya-its-yasin/AIPMS.git dev
+  515  ng serve
+  516  git status
+  517  git add .
+  518  git commit -m "gold calc update"
+  519  git pull https://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@github.com/KaruppuRajaN/InvestmentPortfolioAngularApp.git
+  520  git status
+  521  git add .
+  522  git commit -m "gold calc update"
+  523  git pull https://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@github.com/ya-its-yasin/AIPMS.git 
+  524  git status
+  525  git pull https://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@github.com/KaruppuRajaN/InvestmentPortfolioAngularApp.git
+  526  git status
+  527  git pull https://github.com/ya-its-yasin/AIPMS.git dev
+  528  git clone -b dev https://github.com/ya-its-yasin/AIPMS.git
+  529  git clone -b APIPROVIDERSTOCK https://github.com/ya-its-yasin/AIPMS.git
+  530  git status
+  531  git add .
+  532  git commit -m "gold calc update"
+  533  git pull https://github.com/ya-its-yasin/AIPMS.git dev
+  534  git push https://github.com/ya-its-yasin/AIPMS.git dev
+  535  git push https://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@github.com/ya-its-yasin/AIPMS.git 
+  536  git status
+  537  git add .
+  538  git commit -m "signup update"
+  539  git pull https://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@github.com/KaruppuRajaN/InvestmentPortfolioAngularApp.git
+  540  git push https://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@github.com/KaruppuRajaN/InvestmentPortfolioAngularApp.git
+  541  git status
+  542  git init
+  543  git clone -b dev https://github.com/ya-its-yasin/AIPMS.githttps://github.com/KaruppuRajaN/InvestmentPortfolioAngularApp.git
+  544  git clone -b https://github.com/KaruppuRajaN/InvestmentPortfolioAngularApp.git
+  545  git clone -b master https://github.com/KaruppuRajaN/InvestmentPortfolioAngularApp.git
+  546  code .
+  547  ng serve
+  548  code .
+  549  git status
+  550  git commit -m "portfolio update "
+  551  git add .
+  552  git commit -m "portfolio update "
+  553  git pull https://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@github.com/KaruppuRajaN/InvestmentPortfolioAngularApp.git
+  554  git push https://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@github.com/KaruppuRajaN/InvestmentPortfolioAngularApp.git
+  555  git status
+  556  git add .
+  557  git commit -m "goldinvestment update-user"
+  558  git pull\ https://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@github.com/ya-its-yasin/AIPMS.git 
+  559  git pull https://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@github.com/ya-its-yasin/AIPMS.git 
+  560  git push https://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@github.com/ya-its-yasin/AIPMS.git 
+  561  git status
+  562  git pull https://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@github.com/ya-its-yasin/AIPMS.git 
+  563  git status
+  564  git pull https://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@github.com/KaruppuRajaN/InvestmentPortfolioAngularApp.git
+  565  ng serve
+  566  git status
+  567  git pull https://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@github.com/KaruppuRajaN/InvestmentPortfolioAngularApp.git
+  568  npm install
+  569  code .
+  570  git status
+  571  git add .
+  572  git pull https://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@github.com/KaruppuRajaN/InvestmentPortfolioAngularApp.git
+  573  git push https://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@github.com/KaruppuRajaN/InvestmentPortfolioAngularApp.git
+  574  git status
+  575  git commit -m "navbar update"
+  576  git pull https://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@github.com/KaruppuRajaN/InvestmentPortfolioAngularApp.git
+  577  git push https://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@github.com/KaruppuRajaN/InvestmentPortfolioAngularApp.git
+  578  git status
+  579  git add .
+  580  git commit -m "gold wallet bal"
+  581  git push https://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@github.com/ya-its-yasin/AIPMS.git dev
+  582  git push https://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@github.com/ya-its-yasin/AIPMS.git
+  583  git status
+  584  git checkout dev
+  585  git status
+  586  git push https://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@github.com/ya-its-yasin/AIPMS.git dev
+  587  git pull https://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@github.com/KaruppuRajaN/InvestmentPortfolioAngularApp.git
+  588  git pull https://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@github.com/ya-its-yasin/AIPMS.git dev
+  589  git status
+  590  git push https://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@github.com/ya-its-yasin/AIPMS.git dev
+  591  git checkout qa
+  592  git status
+  593  git push https://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@github.com/ya-its-yasin/AIPMS.git qa
+  594  git push https://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@github.com/ya-its-yasin/AIPMS.git
+  595  code .
+  596  ng serve
+  597  history
+  598  history >> Commands
